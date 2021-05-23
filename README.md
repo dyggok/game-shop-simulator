@@ -5,4 +5,4 @@
 
 - Sisteme yeni kampanya girişi, kampanyanın silinmesi ve güncellenmesi imkanlarını simule ediniz.
 
-- Satışlarda kampanya entegrasyonunu simule ediniz.
+- Satışlarda kampanya entegrasyonu simule edildi.
